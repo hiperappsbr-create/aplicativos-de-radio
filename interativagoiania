@@ -5,22 +5,14 @@
     { "icon": "instagram", "url": "https://instagram.com/seuusuario" },
     { "icon": "facebook", "url": "https://facebook.com/suapagina" }
   ],
-  "sponsor_banners": [
+  "banners": [
     {
       "title": "JOHN RADIO WEB",
       "subtitle": "Anuncie aqui e alcance milhares de ouvintes!",
       "bg_color": "#FDCB03",
       "text_color": "#000000",
-      "image_url": "https://s2-valor.glbimg.com/TD1Bo4Oe11qytcCK4DvMqFSr2kQ=/0x0:750x472/1000x0/smart/filters:strip_icc()/i.s3.glbimg.com/v1/AUTH_63b422c2caee4269b8b34177e8876b93/internal_photos/bs/2023/w/o/ACLhSNSf2lyNuUM9CagQ/3.png",
+      "image_url": "https://i.ibb.co/nMCJJRyN/Sem-T-tulo-1.jpg",
       "click_url": "https://wa.me/558293711135"
-    },
-    {
-      "title": "PATROCINADOR 2",
-      "subtitle": "Seu slogan aqui — edite este arquivo no GitHub",
-      "bg_color": "#0f3460",
-      "text_color": "#FFFFFF",
-      "image_url": "",
-      "click_url": "https://seusite.com.br"
     }
   ]
 }
