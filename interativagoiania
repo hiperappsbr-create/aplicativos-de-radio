@@ -1,33 +1,27 @@
 {
   "stream_url": "https://radio.saopaulo01.com.br:10766/stream",
-
   "enable_banners": true,
-  "enable_social": true,
-
-  "social_icons": [
-    { "icon": "whatsapp", "url": "https://wa.me/558293711135" },
-    { "icon": "instagram", "url": "https://instagram.com/seuusuario" },
-    { "icon": "facebook", "url": "https://facebook.com/suapagina" }
-  ],
-
   "banners": [
-   
-{
-      "title": "JOHN RADIO WEB",
-      "subtitle": "Anuncie aqui e alcance milhares de ouvintes!",
+    {
+      "title": "PATROCINADOR 1",
+      "subtitle": "Clique e fale no WhatsApp",
       "bg_color": "#FDCB03",
       "text_color": "#000000",
-      "image_url": "https://i.ibb.co/WWLQ5tPy/Gemini-Generated-Image-1fkoy61fkoy61fko.png",
-      "click_url": "https://wa.me/558293711135"
+      "image_url": "",
+      "click_url": "https://wa.me/5582999999999"
+    },
+    {
+      "title": "",
+      "subtitle": "",
+      "bg_color": "#111111",
+      "text_color": "#FFFFFF",
+      "image_url": "https://i.imgur.com/SEU_BANNER.png",
+      "click_url": "https://seusite.com.br"
     }
-
-{
-      "title": "JOHN RADIO WEB",
-      "subtitle": "Anuncie aqui e alcance milhares de ouvintes!",
-      "bg_color": "#FDCB03",
-      "text_color": "#000000",
-      "image_url": "https://i.ibb.co/xS1V5PDd/anuncie-aqui-b95d5.jpg",
-      "click_url": "https://wa.me/558293711135"
-    }
+  ],
+  "enable_social": true,
+  "social_icons": [
+    { "icon": "whatsapp", "url": "https://wa.me/5582999999999" },
+    { "icon": "instagram", "url": "https://instagram.com/seuperfil" }
   ]
 }
