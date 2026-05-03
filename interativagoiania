@@ -2,7 +2,6 @@
   "stream_url": "https://server22.srvsh.com.br:7048/stream",
   "social_icons": [
     { "icon": "whatsapp", "url": "https://wa.me/558293711135" },
-    { "icon": "instagram", "url": "https://instagram.com/seuusuario" },
     { "icon": "facebook", "url": "https://facebook.com/suapagina" }
   ],
   "banners": [
