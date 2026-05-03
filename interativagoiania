@@ -2,7 +2,7 @@
   "stream_url": "https://radio.saopaulo01.com.br:10766/stream",
 
   "enable_banners": false,
-  "enable_social": true,
+  "enable_social": false,
 
   "social_icons": [
     { "icon": "whatsapp", "url": "https://wa.me/558293711135" },
