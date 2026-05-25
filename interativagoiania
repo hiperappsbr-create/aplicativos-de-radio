@@ -50,6 +50,7 @@
   "enable_social": true,
   "social_icons": [
     { "icon": "whatsapp", "url": "https://wa.me/5582999999999" },
-    { "icon": "instagram", "url": "https://instagram.com/seuperfil" }
+    { "icon": "instagram", "url": "https://instagram.com/seuperfil" },
+    { "icon": "facebook", "url": "https://instagram.com/seuperfil" }
   ]
 }
