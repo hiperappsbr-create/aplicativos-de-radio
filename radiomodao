@@ -1,0 +1,65 @@
+{
+  "stream_url": "https://servidor40-2.brlogic.com:7150/live",
+  "enable_banners": false,
+  "banners": [
+    {
+      "title": "PATROCINADOR 1",
+      "subtitle": "Clique e fale no WhatsApp",
+      "bg_color": "#FDCB03",
+      "text_color": "#000000",
+      "image_url": "https://i.ibb.co/8D9Sq61q/imgi-224-agencia-de-marketing-digital-e-capa-corporativa-do-facebook-modelo-de-banner-120329-4295.jpg",
+      "click_url": "https://wa.me/5582999999999"
+    },
+    
+{
+      "title": "PATROCINADOR 1",
+      "subtitle": "Clique e fale no WhatsApp",
+      "bg_color": "#FDCB03",
+      "text_color": "#000000",
+      "image_url": "https://i.ibb.co/Hp47LwY2/download.jpg",
+      "click_url": "https://wa.me/5582999999999"
+    },
+
+{
+      "title": "PATROCINADOR 1",
+      "subtitle": "Clique e fale no WhatsApp",
+      "bg_color": "#FDCB03",
+      "text_color": "#000000",
+      "image_url": "https://i.ibb.co/KxBJHfcj/imgi-2-603423.jpg",
+      "click_url": "https://wa.me/5582999999999"
+    },
+
+{
+      "title": "PATROCINADOR 1",
+      "subtitle": "Clique e fale no WhatsApp",
+      "bg_color": "#FDCB03",
+      "text_color": "#000000",
+      "image_url": "https://i.ibb.co/hxrCGNb6/imgi-187-Banner-frente-de-loja-6-tipos-de-banners-para-atrair-clientes.jpg",
+      "click_url": "https://wa.me/5582999999999"
+    },
+
+{
+      "title": "PATROCINADOR 1",
+      "subtitle": "Clique e fale no WhatsApp",
+      "bg_color": "#FDCB03",
+      "text_color": "#000000",
+      "image_url": "https://i.ibb.co/hRKJZMJR/10626459.jpg",
+      "click_url": "https://wa.me/5582999999999"
+    },
+
+{
+      "title": "",
+      "subtitle": "",
+      "bg_color": "#111111",
+      "text_color": "#FFFFFF",
+      "image_url": "https://i.imgur.com/SEU_BANNER.png",
+      "click_url": "https://seusite.com.br"
+    }
+  ],
+  "enable_social": true,
+  "social_icons": [
+    { "icon": "youtube", "url": "https://www.youtube.com/c/radiomodaotoninhomoreira" },
+{ "icon": "website", "url": "https://radiomodaotoninhomoreira.com/" }
+    
+  ]
+}
