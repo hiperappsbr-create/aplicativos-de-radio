@@ -1,6 +1,6 @@
 {
   "stream_url": "https://servidor40-2.brlogic.com:7150/live",
-  "enable_banners": false,
+  "enable_banners": true,
   
     
   "enable_social": true,
