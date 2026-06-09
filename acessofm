@@ -5,7 +5,8 @@
     
   "enable_social": true,
   "social_icons": [
-    
+     
+{ "icon": "website", "url": "https://connect.maxcast.com.br/appweb/acessofm87.5" }
     
   ]
 }
