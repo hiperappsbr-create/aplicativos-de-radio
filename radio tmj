@@ -1,0 +1,66 @@
+{
+  "stream_url": "http://stream.zeno.fm/qqqkhgtmmxhvv",
+  "enable_banners": true,
+  "banners": [
+    {
+      "title": "PATROCINADOR 1",
+      "subtitle": "Clique e fale no WhatsApp",
+      "bg_color": "#FDCB03",
+      "text_color": "#000000",
+      "image_url": "https://i.ibb.co/S9Pnrhh/553044d3-7e12-4d90-b46b-1f797f1c90a9.jpg",
+      "click_url": "https://wa.me/5575999902087"
+    },
+    
+{
+      "title": "PATROCINADOR 1",
+      "subtitle": "Clique e fale no WhatsApp",
+      "bg_color": "#FDCB03",
+      "text_color": "#000000",
+      "image_url": "https://i.ibb.co/XxmLnTJ0/Whats-App-Image-2026-06-10-at-12-13-21.png",
+      "click_url": "https://wa.me/5575998943419"
+    },
+
+{
+      "title": "PATROCINADOR 1",
+      "subtitle": "Clique e fale no WhatsApp",
+      "bg_color": "#FDCB03",
+      "text_color": "#000000",
+      "image_url": "https://i.ibb.co/S9Pnrhh/553044d3-7e12-4d90-b46b-1f797f1c90a9.jpg",
+      "click_url": "https://wa.me/5575999902087"
+    },
+
+{
+      "title": "PATROCINADOR 1",
+      "subtitle": "Clique e fale no WhatsApp",
+      "bg_color": "#FDCB03",
+      "text_color": "#000000",
+      "image_url": "https://i.ibb.co/XxmLnTJ0/Whats-App-Image-2026-06-10-at-12-13-21.png",
+      "click_url": "https://wa.me/5575998943419"
+    },
+
+{
+      "title": "PATROCINADOR 1",
+      "subtitle": "Clique e fale no WhatsApp",
+      "bg_color": "#FDCB03",
+      "text_color": "#000000",
+      "image_url": "https://i.ibb.co/ZzJzGJTv/4115cd60-0b15-4252-9c92-3acad6bfa5c2.png",
+      "click_url": "https://youtube.com/@sergiorenatolocutor"
+    },
+
+{
+      "title": "",
+      "subtitle": "",
+      "bg_color": "#111111",
+      "text_color": "#FFFFFF",
+      "image_url": "https://i.ibb.co/XxmLnTJ0/Whats-App-Image-2026-06-10-at-12-13-21.png",
+      "click_url": "https://wa.me/5575998943419"
+    }
+  ],
+  "enable_social": true,
+  "social_icons": [
+    { "icon": "whatsapp", "url": "https://wa.me/5511918326446" },
+    { "icon": "instagram", "url": "https://www.instagram.com/radio_tmj" },
+{ "icon": "youtube", "url": "https://youtube.com/@radiotmj?si=7inq7eV-b991vwUd" },
+    
+  ]
+}
