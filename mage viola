@@ -1,0 +1,12 @@
+{
+  "stream_url": "http://78.129.241.110:4469/;",
+  "enable_banners": true,
+  
+    
+  "enable_social": true,
+  "social_icons": [
+    { "icon": "youtube", "url": "" },
+{ "icon": "website", "url": "" }
+    
+  ]
+}
