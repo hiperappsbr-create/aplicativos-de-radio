@@ -82,7 +82,7 @@
       "click_url": "https://wa.me/5575998943419"
     }
   ],
-  "enable_social": false,
+  "enable_social": true,
   "social_icons": [
     { "icon": "whatsapp", "url": "https://wa.me/5575999902087" },
     { "icon": "instagram", "url": "https://www.instagram.com/cidad_efmseabra/" },
