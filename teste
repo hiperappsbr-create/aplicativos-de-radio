@@ -82,11 +82,12 @@
       "click_url": "https://wa.me/5575998943419"
     }
   ],
-  "enable_social": true,
+  "enable_social": false,
   "social_icons": [
     { "icon": "whatsapp", "url": "https://wa.me/5575999902087" },
     { "icon": "instagram", "url": "https://www.instagram.com/cidad_efmseabra/" },
-{ "icon": "youtube", "url": "https://youtube.com/@sergiorenatolocutor" },
-    
+{ "icon": "instagram", "url": "https://www.instagram.com/cidad_efmseabra/" },
+    { "icon": "tiktok", "url": "https://www.instagram.com/cidad_efmseabra/" },
+{ "icon": "facebook", "url": "https://www.instagram.com/cidad_efmseabra/" },
   ]
 }
