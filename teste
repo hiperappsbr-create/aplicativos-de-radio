@@ -1,5 +1,5 @@
 {
-  "stream_url": "http://server29.srvsh.com.br:7884/stream",
+  "stream_url": " http://server29.srvsh.com.br:7884/stream ",
   "enable_banners": true,
   "banners": [
     {
@@ -34,8 +34,8 @@
       "subtitle": "Clique e fale no WhatsApp",
       "bg_color": "#FDCB03",
       "text_color": "#000000",
-      "image_url": "https://i.ibb.co/XxmLnTJ0/Whats-App-Image-2026-06-10-at-12-13-21.png",
-      "click_url": "https://wa.me/5575998943419"
+      "image_url": "https://i.ibb.co/nq7MvQ7b/anuncio.jpg",
+      "click_url": " "
     },
 
 {
@@ -43,8 +43,34 @@
       "subtitle": "Clique e fale no WhatsApp",
       "bg_color": "#FDCB03",
       "text_color": "#000000",
-      "image_url": "https://i.ibb.co/ZzJzGJTv/4115cd60-0b15-4252-9c92-3acad6bfa5c2.png",
+      "image_url": "https://i.ibb.co/nq7MvQ7b/anuncio.jpg",
       "click_url": "https://youtube.com/@sergiorenatolocutor"
+    },
+
+{
+      "title": "PATROCINADOR 1",
+      "subtitle": "Clique e fale no WhatsApp",
+      "bg_color": "#FDCB03",
+      "text_color": "#000000",
+      "image_url": "https://i.ibb.co/nq7MvQ7b/anuncio.jpg",
+      "click_url": "https://youtube.com/@sergiorenatolocutor"
+    },
+
+{
+      "title": "PATROCINADOR 1",
+      "subtitle": "Clique e fale no WhatsApp",
+      "bg_color": "#FDCB03",
+      "text_color": "#000000",
+      "image_url": "https://i.ibb.co/nq7MvQ7b/anuncio.jpg",
+      "click_url": "https://youtube.com/@sergiorenatolocutor"
+    },
+{
+      "title": "PATROCINADOR 1",
+      "subtitle": "Clique e fale no WhatsApp",
+      "bg_color": "#FDCB03",
+      "text_color": "#000000",
+      "image_url": "https://i.ibb.co/nq7MvQ7b/anuncio.jpg",
+      "click_url": " "
     },
 
 {
