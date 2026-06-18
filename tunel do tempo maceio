@@ -1,1 +1,13 @@
-
+{
+  "stream_url": "https://s1.dvr.ovh:6724/stream",
+  "enable_banners": true,
+  
+    
+  "enable_social": true,
+  "social_icons": [
+ { "icon": "whatsapp", "url": "https://www.instagram.com/jmmoveiseartes" },
+    { "icon": "instagram", "url": "https://www.instagram.com/jmmoveiseartes" },
+{ "icon": "facebook", "url": "https://www.facebook.com/share/1AX2UiBx8Q/" }
+    
+  ]
+}
