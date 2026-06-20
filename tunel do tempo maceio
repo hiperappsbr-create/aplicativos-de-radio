@@ -1,13 +1,13 @@
 {
-  "stream_url": "https://s1.dvr.ovh:6724/$Tr3M",
+  "stream_url": "https",
   "enable_banners": true,
   
     
   "enable_social": true,
   "social_icons": [
- { "icon": "whatsapp", "url": "https://wa.me/55829816703930F" },
-    { "icon": "instagram", "url": "https://www.instagram.com/jmmoveiseartes0F" },
-{ "icon": "facebook", "url": "https://www.facebook.com/share/1AX2UiBx8Q/0F" }
+ { "icon": "whatsapp", "url": "https://wa.me/5582" },
+    { "icon": "instagram", "url": "https://www.instagram.com/" },
+{ "icon": "facebook", "url": "https://www.facebook.com/share/" }
     
   ]
 }
