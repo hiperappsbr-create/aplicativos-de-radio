@@ -3,11 +3,11 @@
   "app_name": "Interativa FM",
   "logo_url": "https://i.ibb.co/JwyKztWz/unnamed.png",
   "background_url": "https://i.ibb.co/RpdzgXGc/f6548904479fec9465bd2b5f4a168c90.jpg",
-  "bg_tint_color": "#010C2C",
+  "bg_tint_color": "#00254d",
   "bg_tint_opacity": 0.7,
   "live_badge_text": " Ao Vivo",
-  "live_badge_color": "#E53935",
-  "accent_color": "",
+  "live_badge_color": "#34e5d9",
+  "accent_color": "#10bac6",
   "autoplay": true,
   "enable_banners": true,
   "enable_social": true,
@@ -15,10 +15,10 @@
   "enable_timer": true,
   "enable_volume_bar": true,
   "enable_metadata": true,
-  "enable_album_art": false,
+  "enable_album_art": true,
   "enable_album_view": true,
-  "banner_interval_ms": 10000,
-  "sponsor_label": "Anunciantes",
+  "banner_interval_ms": 7000,
+  "sponsor_label": "Colaboradores",
   "banners": [
     {
       "title": "PATROCINADOR 1",
@@ -81,6 +81,10 @@
     {
       "icon": "youtube",
       "url": "https://youtube.com/@sergiorenatolocutor"
+    },
+    {
+      "icon": "site",
+      "url": ""
     }
   ]
 }
