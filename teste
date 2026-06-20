@@ -1,87 +1,38 @@
 {
-  "stream_url": "http://server29.srvsh.com.br:7884/stream",
-  "app_name": "LH FILMES",
-  "logo_url": "https://i.ibb.co/MDRZwGvp/LH.png",
-  "background_url": "",
-  "bg_tint_color": "#010C2C",
+  "stream_url": "https://radio.saopaulo01.com.br:10766/stream",
+  "app_name": "Interativa 94.9 FM",
+  "logo_url": "https://i.ibb.co/JwyKztWz/unnamed.png",
+  "background_url": "https://i.ibb.co/RpdzgXGc/f6548904479fec9465bd2b5f4a168c90.jpg",
+  "bg_tint_color": "#010c2c",
   "bg_tint_opacity": 0.95,
-  "live_badge_text": "AO VIVO",
-  "live_badge_color": "#E53935",
+  "live_badge_text": "Live",
+  "live_badge_color": "#0771d5",
   "accent_color": "",
   "autoplay": true,
   "enable_banners": true,
   "enable_social": true,
-  "enable_recording": false,
+  "enable_recording": true,
   "enable_timer": true,
   "enable_volume_bar": true,
   "enable_metadata": true,
-  "enable_album_art": false,
+  "enable_album_art": true,
   "enable_album_view": true,
   "banner_interval_ms": 10000,
-  "sponsor_label": "PATROCINADORES",
-  "privacy_url": "https://hiperappsbr.blogspot.com/p/politica-de-privacidade_27.html",
-  "banners": [
-    {
-      "title": "PATROCINADOR 1",
-      "subtitle": "Clique e fale no WhatsApp",
-      "bg_color": "#FDCB03",
-      "text_color": "#000000",
-      "image_url": "https://i.ibb.co/S9Pnrhh/553044d3-7e12-4d90-b46b-1f797f1c90a9.jpg",
-      "click_url": "https://wa.me/5575999902087"
-    },
-    {
-      "title": "PATROCINADOR 2",
-      "subtitle": "Clique e fale no WhatsApp",
-      "bg_color": "#FDCB03",
-      "text_color": "#000000",
-      "image_url": "https://i.ibb.co/XxmLnTJ0/Whats-App-Image-2026-06-10-at-12-13-21.png",
-      "click_url": "https://wa.me/5575998943419"
-    },
-    {
-      "title": "PATROCINADOR 3",
-      "subtitle": "Clique e fale no WhatsApp",
-      "bg_color": "#FDCB03",
-      "text_color": "#000000",
-      "image_url": "https://i.ibb.co/S9Pnrhh/553044d3-7e12-4d90-b46b-1f797f1c90a9.jpg",
-      "click_url": "https://wa.me/5575999902087"
-    },
-    {
-      "title": "PATROCINADOR 4",
-      "subtitle": "Clique e fale no WhatsApp",
-      "bg_color": "#FDCB03",
-      "text_color": "#000000",
-      "image_url": "https://i.ibb.co/XxmLnTJ0/Whats-App-Image-2026-06-10-at-12-13-21.png",
-      "click_url": "https://wa.me/5575998943419"
-    },
-    {
-      "title": "",
-      "subtitle": "",
-      "bg_color": "#111111",
-      "text_color": "#FFFFFF",
-      "image_url": "https://i.ibb.co/ZzJzGJTv/4115cd60-0b15-4252-9c92-3acad6bfa5c2.png",
-      "click_url": "https://youtube.com/@sergiorenatolocutor"
-    },
-    {
-      "title": "",
-      "subtitle": "",
-      "bg_color": "#111111",
-      "text_color": "#FFFFFF",
-      "image_url": "https://i.ibb.co/XxmLnTJ0/Whats-App-Image-2026-06-10-at-12-13-21.png",
-      "click_url": "https://wa.me/5575998943419"
-    }
-  ],
+  "sponsor_label": "Anunciantes",
+  "privacy_url": "",
+  "banners": [],
   "social_icons": [
     {
-      "icon": "whatsapp",
-      "url": "https://wa.me/5575999902087"
-    },
-    {
       "icon": "instagram",
-      "url": "https://www.instagram.com/cidad_efmseabra/"
+      "url": "https://www.instagram.com/cazetv/"
     },
     {
       "icon": "youtube",
-      "url": "https://youtube.com/@sergiorenatolocutor"
+      "url": "https://www.instagram.com/cazetv/"
+    },
+    {
+      "icon": "tiktok",
+      "url": "https://www.instagram.com/cazetv/"
     }
   ]
 }
