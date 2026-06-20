@@ -15,7 +15,7 @@
   "enable_timer": true,
   "enable_volume_bar": true,
   "enable_metadata": true,
-  "enable_album_art": true,
+  "enable_album_art": false,
   "enable_album_view": true,
   "banner_interval_ms": 10000,
   "sponsor_label": "Anunciantes",
