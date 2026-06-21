@@ -1,0 +1,90 @@
+{
+  "stream_url": "https://sv15.hdradios.net:8318/stream",
+  "app_name": "Bella Vista",
+  "logo_url": "https://i.ibb.co/tMgFY3wh/bella-vista.png",
+  "background_url": "https://i.ibb.co/201ky0QL/46813f9a-58f3-4336-803e-64e91048cf2c.jpg",
+  "bg_tint_color": "#00254d",
+  "bg_tint_opacity": 0.89,
+  "live_badge_text": " Ao Vivo",
+  "live_badge_color": "#34e5d9",
+  "accent_color": "#10bac6",
+  "autoplay": true,
+  "enable_banners": true,
+  "enable_social": true,
+  "enable_recording": true,
+  "enable_timer": true,
+  "enable_volume_bar": true,
+  "enable_metadata": true,
+  "enable_album_art": false,
+  "enable_album_view": true,
+  "banner_interval_ms": 7000,
+  "sponsor_label": "Colaboradores",
+  "banners": [
+    {
+      "title": "PATROCINADOR 1",
+      "subtitle": "Clique e fale no WhatsApp",
+      "bg_color": "#FDCB03",
+      "text_color": "#000000",
+      "image_url": "https://i.ibb.co/S9Pnrhh/553044d3-7e12-4d90-b46b-1f797f1c90a9.jpg",
+      "click_url": "https://wa.me/5575999902087"
+    },
+    {
+      "title": "PATROCINADOR 2",
+      "subtitle": "Clique e fale no WhatsApp",
+      "bg_color": "#FDCB03",
+      "text_color": "#000000",
+      "image_url": "https://i.ibb.co/XxmLnTJ0/Whats-App-Image-2026-06-10-at-12-13-21.png",
+      "click_url": "https://wa.me/5575998943419"
+    },
+    {
+      "title": "PATROCINADOR 3",
+      "subtitle": "Clique e fale no WhatsApp",
+      "bg_color": "#FDCB03",
+      "text_color": "#000000",
+      "image_url": "https://i.ibb.co/S9Pnrhh/553044d3-7e12-4d90-b46b-1f797f1c90a9.jpg",
+      "click_url": "https://wa.me/5575999902087"
+    },
+    {
+      "title": "PATROCINADOR 4",
+      "subtitle": "Clique e fale no WhatsApp",
+      "bg_color": "#FDCB03",
+      "text_color": "#000000",
+      "image_url": "https://i.ibb.co/XxmLnTJ0/Whats-App-Image-2026-06-10-at-12-13-21.png",
+      "click_url": "https://wa.me/5575998943419"
+    },
+    {
+      "title": "",
+      "subtitle": "",
+      "bg_color": "#111111",
+      "text_color": "#FFFFFF",
+      "image_url": "https://i.ibb.co/ZzJzGJTv/4115cd60-0b15-4252-9c92-3acad6bfa5c2.png",
+      "click_url": "https://youtube.com/@sergiorenatolocutor"
+    },
+    {
+      "title": "",
+      "subtitle": "",
+      "bg_color": "#111111",
+      "text_color": "#FFFFFF",
+      "image_url": "https://i.ibb.co/XxmLnTJ0/Whats-App-Image-2026-06-10-at-12-13-21.png",
+      "click_url": "https://wa.me/5575998943419"
+    }
+  ],
+  "social_icons": [
+    {
+      "icon": "whatsapp",
+      "url": "https://wa.me/5575999902087"
+    },
+    {
+      "icon": "instagram",
+      "url": "https://www.instagram.com/cidad_efmseabra/"
+    },
+    {
+      "icon": "youtube",
+      "url": "https://youtube.com/@sergiorenatolocutor"
+    },
+    {
+      "icon": "site",
+      "url": ""
+    }
+  ]
+}
