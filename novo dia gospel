@@ -4,7 +4,7 @@
   "logo_url": "https://i.ibb.co/PLDN1Nd/imgi-34-4689-2026-04-24-1.png",
   "background_url": " ",
   "bg_tint_color": "#00254d",
-  "bg_tint_opacity": 0.90,
+  "bg_tint_opacity": 0.100,
   "live_badge_text": " Ao Vivo",
   "live_badge_color": "#001940",
   "accent_color": "#000d13",
@@ -71,13 +71,10 @@
   ],
   "social_icons": [
     {
-      "icon": "whatsapp",
-      "url": "https://wa.me/5561996469539"
-    },
-    {
-      "icon": "instagram",
-      "url": "https://www.instagram.com/bella_vista_fercal_web_radio"
+      "icon": "website",
+      "url": "https://radionovodiagospeloficial.com.br/"
     }
+  
    
   ]
 }
