@@ -1,8 +1,8 @@
 {
-  "stream_url": " httsp ",
+  "stream_url": "https://sv15.hdradios.net:8318/stream",
   "app_name": "Bella Vista Web Rádio",
   "logo_url": "https://i.ibb.co/tMgFY3wh/bella-vista.png",
-  "background_url": "https://i.ibb.co/hF1DGz75/46813f9a-58f3-4336-803e-64e91048cf2c-1.jpg",
+  "background_url": "https://i.ibb.co/KcbSmsrB/bella-vista3.png",
   "bg_tint_color": "#00254d",
   "bg_tint_opacity": 0.2,
   "live_badge_text": " Ao Vivo",
