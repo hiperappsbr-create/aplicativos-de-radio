@@ -19,6 +19,11 @@
   "enable_album_view": true,
   "banner_interval_ms": 7000,
   "sponsor_label": "Colaboradores",
+
+  "enable_tv": true,
+  "tv_url": "https://www.youtube.com/watch?v=XXXXXXXXXXX",
+  "tv_label": "TV Ao Vivo",
+
   "banners": [
     {
       "title": "PATROCINADOR 1",
@@ -60,8 +65,8 @@
       "image_url": "https://i.ibb.co/pvkGM8xN/anuncie-aqui.png",
       "click_url": "https://youtube.com/"
     }
-   
   ],
+
   "social_icons": [
     {
       "icon": "whatsapp",
