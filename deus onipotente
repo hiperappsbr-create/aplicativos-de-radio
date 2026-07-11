@@ -1,0 +1,12 @@
+{
+  "stream_url": "https://stream.zeno.fm/mkbwqdprqbgvv",
+  "enable_banners": true,
+  
+    
+  "enable_social": true,
+  "social_icons": [
+    { "icon": "whatsapp", "url": "https://wa.me/5555379982583" },
+{ "icon": "youtube", "url": "https://www.youtube.com/@danieldonizt2449" }
+    
+  ]
+}
