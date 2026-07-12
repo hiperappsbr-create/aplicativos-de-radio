@@ -3,7 +3,7 @@
   "app_name": "Planeta FM",
   "logo_url": "https://i.ibb.co/fzF8JX7m/planeta.png",
   "background_url": "https://i.ibb.co/LzGv316W/45a387a5aca1fabb2757642b5578cf45.jpg",
-  "bg_tint_color": "#00254d",
+  "bg_tint_color": "#01020b",
   "bg_tint_opacity": 0.87,
   "live_badge_text": " Ao Vivo",
   "live_badge_color": "#09001d",
