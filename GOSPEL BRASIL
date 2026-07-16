@@ -3,7 +3,7 @@
   "app_name": "RÁDIO GOSPEL BRASIL",
   "logo_url": "https://i.ibb.co/JwtZ766c/gb.png",
   "background_url": "https://i.ibb.co/14K55JK/fundof.jpg",
-  "bg_tint_color": "#00254d",
+  "bg_tint_color": "#0d0e0e",
   "bg_tint_opacity": 0.50,
   "live_badge_text": " Ao Vivo",
   "live_badge_color": "#09001d",
