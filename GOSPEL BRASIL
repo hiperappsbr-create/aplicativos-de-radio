@@ -1,10 +1,10 @@
 {
   "stream_url": "https://stm2.pousadavirtual.com.br:7008/;",
   "app_name": "RÁDIO GOSPEL BRASIL",
-  "logo_url": "https://i.ibb.co/kg2VdGZX/a165b83a-c1f8-4f31-8da1-60743f211a98.png",
+  "logo_url": "https://i.ibb.co/1G83ZWLJ/gb.png",
   "background_url": "https://i.ibb.co/6JDJS600/178f16fdae889c981ace3290c0667516.jpg",
   "bg_tint_color": "#00254d",
-  "bg_tint_opacity": 0.05,
+  "bg_tint_opacity": 0.50,
   "live_badge_text": " Ao Vivo",
   "live_badge_color": "#09001d",
   "accent_color": "#000d13",
