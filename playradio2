@@ -25,7 +25,7 @@
 
  "enable_fake_listeners": true,
   "fake_listeners_min": 20,
-  "fake_listeners_max": 480,
+  "fake_listeners_max": 2575,
   "fake_listeners_label": "%d ouvintes hoje",
 
   "banners": [
