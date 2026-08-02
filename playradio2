@@ -19,10 +19,14 @@
   "enable_album_view": true,
   "banner_interval_ms": 7000,
   "sponsor_label": "Colaboradores",
-
   "enable_tv": true,
   "tv_url": "https://video11.logicahost.com.br/interativafm01/interativafm01/chunklist_w1032489035.m3u8",
   "tv_label": "TV Ao Vivo",
+
+  "enable_fake_listeners": true,
+  "fake_listeners_base": 137,
+  "fake_listeners_variance": 05,
+  "fake_listeners_label": "%d ouvintes agora",
 
   "banners": [
     {
@@ -66,7 +70,6 @@
       "click_url": "https://youtube.com/"
     }
   ],
-
   "social_icons": [
     {
       "icon": "whatsapp",
