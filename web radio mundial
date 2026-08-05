@@ -1,7 +1,7 @@
 {
-  "stream_url": "http://sapircast.caster.fm:17719/;",
-  "app_name": "Espaço Conga Web Rádio",
-  "logo_url": "https://i.ibb.co/Q3wS2H6d/sddv.png",
+  "stream_url": "https://stm1.voxhd.com.br:6938/;",
+  "app_name": "Web Rádio Mundial",
+  "logo_url": "https://i.postimg.cc/g2tszZ40/xdvd.png",
   "background_url": "https://i.ibb.co/kVGkk5Cp/fundof.jpg",
   "bg_tint_color": "#00254d",
   "bg_tint_opacity": 0.05,
@@ -66,11 +66,21 @@
   "social_icons": [
     {
       "icon": "whatsapp",
-      "url": "https://wa.me/55"
+      "url": "https://api.whatsapp.com/send?phone=5575991900863"
     },
     {
       "icon": "instagram",
-      "url": "https://www.instagram.com/"
+      "url": "https://www.instagram.com/webradioserra"
+    }
+},
+    {
+      "icon": "youtube",
+      "url": "https://www.youtube.com/@webradioserra"
+    }
+},
+    {
+      "icon": "website",
+      "url": "https://webradiomundial.com"
     }
   ]
 }
