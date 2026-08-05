@@ -19,7 +19,6 @@
   "enable_album_view": true,
   "banner_interval_ms": 7000,
   "sponsor_label": "Colaboradores",
-  
 
   "banners": [
     {
@@ -60,23 +59,26 @@
       "bg_color": "#111111",
       "text_color": "#FFFFFF",
       "image_url": "https://i.ibb.co/pvkGM8xN/anuncie-aqui.png",
-      "click_url": "https://youtube.com/",
+      "click_url": "https://youtube.com/"
+    }
+  ],
 
-"social_icons": [
-  {
-    "icon": "whatsapp",
-    "url": "https://api.whatsapp.com/send?phone=5575991900863"
-  },
-  {
-    "icon": "instagram",
-    "url": "https://www.instagram.com/webradioserra"
-  },
-  {
-    "icon": "youtube",
-    "url": "https://www.youtube.com/@webradioserra"
-  },
-  {
-    "icon": "website",
-    "url": "https://webradiomundial.com"
-  }
-]
+  "social_icons": [
+    {
+      "icon": "whatsapp",
+      "url": "https://api.whatsapp.com/send?phone=5575991900863"
+    },
+    {
+      "icon": "instagram",
+      "url": "https://www.instagram.com/webradioserra"
+    },
+    {
+      "icon": "youtube",
+      "url": "https://www.youtube.com/@webradioserra"
+    },
+    {
+      "icon": "website",
+      "url": "https://webradiomundial.com"
+    }
+  ]
+}
