@@ -1,5 +1,5 @@
 {
-  "stream_url": "https://stm1.voxhd.com.br:6938/;",
+  "stream_url": "https://media-ssl.musicradio.com/Capital",
   "app_name": "Play FM ",
   "logo_url": "https://i.postimg.cc/yxqQKn20/08587957-cead-4bc1-b730-bf0f2dc5670f.png",
   "background_url": "https://i.ibb.co/kVGkk5Cp/fundof.jpg",
@@ -19,6 +19,15 @@
   "enable_album_view": true,
   "banner_interval_ms": 7000,
   "sponsor_label": "Colaboradores",
+
+"enable_tv": true,
+  "tv_url": "https://video11.logicahost.com.br/interativafm01/interativafm01/chunklist_w1032489035.m3u8",
+  "tv_label": "TV Ao Vivo",
+
+ "enable_fake_listeners": true,
+  "fake_listeners_min": 20,
+  "fake_listeners_max": 252,075,
+  "fake_listeners_label": "%d ouvintes hoje",
 
   "banners": [
     {
@@ -66,15 +75,15 @@
   "social_icons": [
     {
       "icon": "whatsapp",
-      "url": "https://api.whatsapp.com/send?phone=5575991900863"
+      "url": "https://api.whatsapp.com/send?phone=55"
     },
     {
       "icon": "instagram",
-      "url": "https://www.instagram.com/webradioserra"
+      "url": ""
     },
     {
       "icon": "youtube",
-      "url": "https://www.youtube.com/@webradioserra"
+      "url": ""
     },
     {
       "icon": "website",
