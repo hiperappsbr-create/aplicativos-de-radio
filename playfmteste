@@ -1,10 +1,10 @@
 {
   "stream_url": "https://media-ssl.musicradio.com/Capital",
   "app_name": "Play FM ",
-  "logo_url": "https://i.postimg.cc/yxqQKn20/08587957-cead-4bc1-b730-bf0f2dc5670f.png",
-  "background_url": "https://i.ibb.co/kVGkk5Cp/fundof.jpg",
+  "logo_url": "https://i.postimg.cc/hvR6KQr6/668fdb3c61afb.png",
+  "background_url": "https://i.postimg.cc/wxWD8YjH/76eee45f1a325937aa78e6569986a52c.jpg",
   "bg_tint_color": "#000e38",
-  "bg_tint_opacity": 0.78,
+  "bg_tint_opacity": 0.00,
   "live_badge_text": " Ao Vivo",
   "live_badge_color": "#09001d",
   "accent_color": "#000d13",
@@ -15,12 +15,12 @@
   "enable_timer": true,
   "enable_volume_bar": true,
   "enable_metadata": true,
-  "enable_album_art": false,
+  "enable_album_art": true,
   "enable_album_view": true,
-  "banner_interval_ms": 7000,
-  "sponsor_label": "Colaboradores",
+  "banner_interval_ms": 10000,
+  "sponsor_label": "Anunciantes",
 
-"enable_tv": false,
+"enable_tv": true,
   "tv_url": "https://video11.logicahost.com.br/interativafm01/interativafm01/chunklist_w1032489035.m3u8",
   "tv_label": "TV Ao Vivo",
 
@@ -35,8 +35,8 @@
       "subtitle": "Clique e fale no WhatsApp",
       "bg_color": "#FDCB03",
       "text_color": "#000000",
-      "image_url": "https://www.tendaatacado.com.br/assets/institucional/Imagem_191.png",
-      "click_url": " "
+      "image_url": "https://i.postimg.cc/7LDNPM8n/capa-play.jpg",
+      "click_url": "https://wa.me/5575997456656"
     },
     {
       "title": "PATROCINADOR 2",
@@ -44,7 +44,7 @@
       "bg_color": "#FDCB03",
       "text_color": "#000000",
       "image_url": "https://aquiacontece.com.br/wp-content/uploads/2026/05/WhatsApp-Image-2026-05-08-at-09.44.49.jpeg",
-      "click_url": ""
+      "click_url": " "
     },
     {
       "title": "PATROCINADOR 3",
@@ -62,6 +62,15 @@
       "image_url": "https://assets.bileto.sympla.com.br/eventmanager/production/320p5ku0fodhvfsmdnmdq78tif2hs2rh18vqsmg60ehlvgk2dlfdgtsugt0714d5ha1micbrt5dbsp7995h025lv6o2ddr0fgam7a1r.webp",
       "click_url": "https://wa.me/"
     },
+{
+      "title": "PATROCINADOR 4",
+      "subtitle": "Clique e fale no WhatsApp",
+      "bg_color": "#FDCB03",
+      "text_color": "#000000",
+      "image_url": "https://assets.bileto.sympla.com.br/eventmanager/production/320p5ku0fodhvfsmdnmdq78tif2hs2rh18vqsmg60ehlvgk2dlfdgtsugt0714d5ha1micbrt5dbsp7995h025lv6o2ddr0fgam7a1r.webp",
+      "click_url": "https://wa.me/"
+    },
+
     {
       "title": "",
       "subtitle": "",
@@ -81,10 +90,12 @@
       "icon": "instagram",
       "url": ""
     },
-    {
-      "icon": "youtube",
-      "url": ""
+
+{
+      "icon": "facebook",
+      "url": " "
     },
+    
     {
       "icon": "website",
       "url": "https://webradiomundial.com"
