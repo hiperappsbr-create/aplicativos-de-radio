@@ -1,10 +1,10 @@
 {
   "stream_url": "https://srv8.ipstm.net:34786/;",
-  "app_name": "Rádio Visão para o Reino de Deus",
+  "app_name": "Radio Tecno Audio (RTA)",
   "logo_url": "https://i.postimg.cc/KYSJsSTq/radio-image.png",
   "background_url": "https://i.postimg.cc/fR4cM7bw/classic512.png",
   "bg_tint_color": "#00254d",
-  "bg_tint_opacity": 0.05,
+  "bg_tint_opacity": 0.40,
   "live_badge_text": " Ao Vivo",
   "live_badge_color": "#09001d",
   "accent_color": "#000d13",
