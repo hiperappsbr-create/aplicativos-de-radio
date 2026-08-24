@@ -1,1 +1,84 @@
+{
+  "stream_url": "https://s02.maxcast.com.br:8065/live",
+  "app_name": "Rádio Acesso FM",
+  "logo_url": "https://i.postimg.cc/GhQP20J1/x08-19-at-10-10-31.png",
+  "background_url": "https://i.postimg.cc/sXdGmK9n/bg-image.png",
+  "bg_tint_color": "#00254d",
+  "bg_tint_opacity": 0.05,
+  "live_badge_text": " Ao Vivo",
+  "live_badge_color": "#09001d",
+  "accent_color": "#000d13",
+  "autoplay": true,
+  "enable_banners": true,
+  "enable_social": true,
+  "enable_recording": true,
+  "enable_timer": true,
+  "enable_volume_bar": true,
+  "enable_metadata": true,
+  "enable_album_art": false,
+  "enable_album_view": true,
+  "banner_interval_ms": 7000,
+  "sponsor_label": "Colaboradores",
+  
+"enable_tv": false,
+  "tv_url": "",
+  "tv_label": "TV Ao Vivo",
 
+ "enable_fake_listeners": false,
+  "fake_listeners_min": 20,
+  "fake_listeners_max": 2575,
+  "fake_listeners_label": "%d ouvintes hoje",
+
+  "banners": [
+    {
+      "title": "PATROCINADOR 1",
+      "subtitle": "Clique e fale no WhatsApp",
+      "bg_color": "#FDCB03",
+      "text_color": "#000000",
+      "image_url": "https://i.ibb.co/pvkGM8xN/anuncie-aqui.png",
+      "click_url": " "
+    },
+    {
+      "title": "PATROCINADOR 2",
+      "subtitle": "Clique e fale no WhatsApp",
+      "bg_color": "#FDCB03",
+      "text_color": "#000000",
+      "image_url": "https://i.ibb.co/pvkGM8xN/anuncie-aqui.png",
+      "click_url": ""
+    },
+    {
+      "title": "PATROCINADOR 3",
+      "subtitle": "Clique e fale no WhatsApp",
+      "bg_color": "#FDCB03",
+      "text_color": "#000000",
+      "image_url": "https://i.ibb.co/pvkGM8xN/anuncie-aqui.png",
+      "click_url": "https://"
+    },
+    {
+      "title": "PATROCINADOR 4",
+      "subtitle": "Clique e fale no WhatsApp",
+      "bg_color": "#FDCB03",
+      "text_color": "#000000",
+      "image_url": "https://i.ibb.co/pvkGM8xN/anuncie-aqui.png",
+      "click_url": "https://wa.me/"
+    },
+    {
+      "title": "",
+      "subtitle": "",
+      "bg_color": "#111111",
+      "text_color": "#FFFFFF",
+      "image_url": "https://i.ibb.co/pvkGM8xN/anuncie-aqui.png",
+      "click_url": "https://youtube.com/"
+    }
+  ],
+  "social_icons": [
+    {
+      "icon": "website",
+      "url": "https://connect.maxcast.com.br/appweb/acessofm87.5"
+    },
+    {
+      "icon": "instagram",
+      "url": ""
+    }
+  ]
+}
