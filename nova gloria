@@ -19,7 +19,6 @@
   "enable_album_view": true,
   "banner_interval_ms": 7000,
   "sponsor_label": "Colaboradores",
-  
 
   "banners": [
     {
@@ -64,28 +63,10 @@
     }
   ],
   "social_icons": [
-    {
-      "icon": "whatsapp",
-      "url": "https://wa.me/5531971839099"
-    },
-    {
-      "icon": "instagram",
-      "url": "https://www.instagram.com/"
-    }
-},
-    {
-      "icon": "facebook",
-      "url": " "
-    }
-},
-    {
-      "icon": "tiktok",
-      "url": "  "
-    }
-},
-    {
-      "icon": "website",
-      "url": "  "
-    }
+    { "icon": "whatsapp", "url": "https://wa.me/5531971839099" },
+    { "icon": "instagram", "url": "https://www.instagram.com/" },
+    { "icon": "facebook", "url": " " },
+    { "icon": "tiktok", "url": "  " },
+    { "icon": "website", "url": "  " }
   ]
 }
