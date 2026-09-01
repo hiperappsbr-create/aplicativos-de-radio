@@ -35,43 +35,74 @@
       "subtitle": "Clique e fale no WhatsApp",
       "bg_color": "#FDCB03",
       "text_color": "#000000",
-      "image_url": "https://www.tendaatacado.com.br/assets/institucional/Imagem_191.png",
-      "click_url": " "
+      "image_url": "https://i.postimg.cc/rmY75JPQ/Chat-GPT-Image-2-de-mai-de-2026-09-02-48.png",
+      "click_url": " https://wa.me/5584999005872 " 
     },
     {
       "title": "PATROCINADOR 2",
       "subtitle": "Clique e fale no WhatsApp",
       "bg_color": "#FDCB03",
       "text_color": "#000000",
-      "image_url": "https://aquiacontece.com.br/wp-content/uploads/2026/05/WhatsApp-Image-2026-05-08-at-09.44.49.jpeg",
-      "click_url": ""
+      "image_url": "https://i.postimg.cc/0Qm5fxrK/MERCADINHO-PAG-E-LEVE.png",
+      "click_url": " https://wa.me/5584986589119 "
     },
     {
       "title": "PATROCINADOR 3",
       "subtitle": "Clique e fale no WhatsApp",
       "bg_color": "#FDCB03",
       "text_color": "#000000",
-      "image_url": "https://guiasaotiago.com.br/wp-content/webp-express/webp-images/uploads/2022/05/Paulao-Artefatos-de-cimento-1024x575.jpg.webp",
-      "click_url": "https://"
+      "image_url": "https://i.postimg.cc/wBYvJMk6/Chat-GPT-Image-24-de-ago-de-2026-17-39-28.png",
+      "click_url": " https://wa.me/5584999464244 "
     },
     {
       "title": "PATROCINADOR 4",
       "subtitle": "Clique e fale no WhatsApp",
       "bg_color": "#FDCB03",
       "text_color": "#000000",
-      "image_url": "https://assets.bileto.sympla.com.br/eventmanager/production/320p5ku0fodhvfsmdnmdq78tif2hs2rh18vqsmg60ehlvgk2dlfdgtsugt0714d5ha1micbrt5dbsp7995h025lv6o2ddr0fgam7a1r.webp",
-      "click_url": "https://wa.me/"
+      "image_url": "https://i.postimg.cc/L4jb9Lkq/Chat-GPT-Image-20-de-ago-de-2026-07-31-33.png",
+      "click_url": " https://wa.me/5584999413002 "
+    },
+    {
+      "title": "PATROCINADOR 5",
+      "subtitle": "",
+      "bg_color": "#111111",
+      "text_color": "#FFFFFF",
+      "image_url": "https://i.postimg.cc/Zn8kmTWv/LF-CONSTRUCOES.png",
+      "click_url": " https://wa.me/5584999199949 "
+    },
+    {
+      "title": "PATROCINADOR 6",
+      "subtitle": "",
+      "bg_color": "#111111",
+      "text_color": "#FFFFFF",
+      "image_url": "https://i.postimg.cc/rFwF1hZz/Chat-GPT-Image-26-de-ago-de-2026-21-02-12.png",
+      "click_url": " https://wa.me/5584999335702 "
+    },
+    {
+      "title": "PATROCINADOR 7",
+      "subtitle": "",
+      "bg_color": "#111111",
+      "text_color": "#FFFFFF",
+      "image_url": "https://i.postimg.cc/qB8CbZG2/Chat-GPT-Image-26-de-ago-de-2026-20-59-57.png",
+      "click_url": " https://wa.me/5584998005806 "
+    },
+    {
+      "title": "PATROCINADOR 8",
+      "subtitle": "",
+      "bg_color": "#111111",
+      "text_color": "#FFFFFF",
+      "image_url": "https://i.postimg.cc/ZqbG1hbc/IMAGEM.png",
+      "click_url": " https://wa.me/5584998376257 "
     },
     {
       "title": "",
       "subtitle": "",
       "bg_color": "#111111",
       "text_color": "#FFFFFF",
-      "image_url": "https://i.ibb.co/pvkGM8xN/anuncie-aqui.png",
-      "click_url": "https://youtube.com/"
+      "image_url": "https://i.postimg.cc/Kj6bjwJW/hq720.jpg",
+      "click_url": " "
     }
-  ],
-
+],
   "social_icons": [
     {
       "icon": "whatsapp",
