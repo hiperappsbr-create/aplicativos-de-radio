@@ -6,7 +6,7 @@
   "bg_tint_color": "#000e38",
   "bg_tint_opacity": 0.78,
   "live_badge_text": ".",
-  "live_badge_color": "#ffffff00",
+  "live_badge_color": "#00000000",
   "accent_color": "#000d13",
   "autoplay": true,
   "enable_banners": true,
@@ -19,6 +19,8 @@
   "enable_album_view": true,
   "banner_interval_ms": 7000,
   "sponsor_label": "Colaboradores",
+
+"enable_live_badge": false
 
 "enable_tv": false,
   "tv_url": "https://video11.logicahost.com.br/interativafm01/interativafm01/chunklist_w1032489035.m3u8",
