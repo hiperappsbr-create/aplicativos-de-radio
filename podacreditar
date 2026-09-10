@@ -65,13 +65,10 @@
   
 ],
   "social_icons": [
-    {
-      "icon": "whatsapp",
-      "url": "https://api.whatsapp.com/send?phone=55"
-    },
+    
     {
       "icon": "instagram",
-      "url": "http://instagram.com/ "
+      "url": "https://www.instagram.com/podacreditar_comfe/"
     },
     {
       "icon": "youtube",
