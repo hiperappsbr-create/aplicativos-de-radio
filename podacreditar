@@ -3,7 +3,7 @@
   "app_name": "Pod Acreditar",
   "logo_url": "https://i.postimg.cc/5yjCgwVr/efd.png",
   "background_url": "https://i.postimg.cc/wM6pYVvR/76eee45f1a325937aa78e6569986a52c.jpg",
-  "bg_tint_color": "#000e38",
+  "bg_tint_color": "#00000000",
   "bg_tint_opacity": 0.78,
   "live_badge_text": ".",
   "live_badge_color": "#00000000",
