@@ -5,7 +5,7 @@
   "background_url": "https://i.postimg.cc/wM6pYVvR/76eee45f1a325937aa78e6569986a52c.jpg",
   "bg_tint_color": "#00000000",
   "bg_tint_opacity": 0.78,
-  "live_badge_text": ".",
+  "live_badge_text": "Ao vivo",
   "live_badge_color": "#00000000",
   "accent_color": "#000d13",
   "autoplay": false,
@@ -71,11 +71,11 @@
     },
     {
       "icon": "instagram",
-      "url": ""
+      "url": "http://instagram.com/ "
     },
     {
       "icon": "youtube",
-      "url": " "
+      "url": "https://www.youtube.com/@podacreditar-r9m2q"
     },
     {
       "icon": "website",
