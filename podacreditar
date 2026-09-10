@@ -1,0 +1,85 @@
+{
+  "stream_url": "https://s02.svrdedicado.org:7350/stream",
+  "app_name": "Pod Acreditar",
+  "logo_url": "https://i.postimg.cc/5yjCgwVr/efd.png",
+  "background_url": "https://i.ibb.co/kVGkk5Cp/fundof.jpg",
+  "bg_tint_color": "#000e38",
+  "bg_tint_opacity": 0.78,
+  "live_badge_text": ".",
+  "live_badge_color": "#00000000",
+  "accent_color": "#000d13",
+  "autoplay": true,
+  "enable_banners": true,
+  "enable_social": true,
+  "enable_recording": true,
+  "enable_timer": true,
+  "enable_volume_bar": true,
+  "enable_metadata": true,
+  "enable_album_art": false,
+  "enable_album_view": true,
+  "banner_interval_ms": 7000,
+  "sponsor_label": "Colaboradores",
+
+"enable_live_badge": false,
+
+"enable_tv": true,
+  "tv_url": "rtmp://a.rtmp.youtube.com/live2",
+  "tv_label": "TV Ao Vivo",
+
+
+
+  "banners": [
+    {
+      "title": "PATROCINADOR 1",
+      "subtitle": "Clique e fale no WhatsApp",
+      "bg_color": "#FDCB03",
+      "text_color": "#000000",
+      "image_url": "https://i.postimg.cc/wvjyxh7q/c5fb0937-5b02-40ab-a68c-73f8288646f0.jpg",
+      "click_url": "  " 
+    },
+    {
+      "title": "PATROCINADOR 2",
+      "subtitle": "Clique e fale no WhatsApp",
+      "bg_color": "#FDCB03",
+      "text_color": "#000000",
+      "image_url": "https://i.postimg.cc/kGt5Dw9n/fe90b8fc-de76-479a-ac95-a4c3113f9cc3.jpg",
+      "click_url": "  "
+    },
+    {
+      "title": "PATROCINADOR 3",
+      "subtitle": "Clique e fale no WhatsApp",
+      "bg_color": "#FDCB03",
+      "text_color": "#000000",
+      "image_url": "https://i.postimg.cc/VNGMCGyR/117b7f54-0f87-4fca-b5d0-1a5b61e14024.jpg",
+      "click_url": " https://wa.me/55 "
+    },
+    {
+      "title": "PATROCINADOR 4",
+      "subtitle": "Clique e fale no WhatsApp",
+      "bg_color": "#FDCB03",
+      "text_color": "#000000",
+      "image_url": "https://i.postimg.cc/SR0n6Hgs/e062504e-d00b-44f5-9630-9f75e2ff05df.jpg",
+      "click_url": " https://wa.me/55 "
+    },
+    
+  
+],
+  "social_icons": [
+    {
+      "icon": "whatsapp",
+      "url": "https://api.whatsapp.com/send?phone=55"
+    },
+    {
+      "icon": "instagram",
+      "url": ""
+    },
+    {
+      "icon": "youtube",
+      "url": " "
+    },
+    {
+      "icon": "website",
+      "url": " "
+    }
+  ]
+}
