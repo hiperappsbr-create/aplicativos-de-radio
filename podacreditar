@@ -8,7 +8,7 @@
   "live_badge_text": ".",
   "live_badge_color": "#00000000",
   "accent_color": "#000d13",
-  "autoplay": true,
+  "autoplay": false,
   "enable_banners": true,
   "enable_social": true,
   "enable_recording": true,
