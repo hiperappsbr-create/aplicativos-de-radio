@@ -19,10 +19,8 @@
   "enable_album_view": true,
   "banner_interval_ms": 7000,
   "sponsor_label": "Colaboradores",
-  
-"enable_live_badge": true,
+  "enable_live_badge": true,
 
- 
   "banners": [
     {
       "title": "PATROCINADOR 1",
@@ -30,7 +28,7 @@
       "bg_color": "#FDCB03",
       "text_color": "#000000",
       "image_url": "https://i.ibb.co/pvkGM8xN/anuncie-aqui.png",
-      "click_url": " "
+      "click_url": ""
     },
     {
       "title": "PATROCINADOR 2",
@@ -46,7 +44,7 @@
       "bg_color": "#FDCB03",
       "text_color": "#000000",
       "image_url": "https://i.ibb.co/pvkGM8xN/anuncie-aqui.png",
-      "click_url": "https://"
+      "click_url": ""
     },
     {
       "title": "PATROCINADOR 4",
@@ -65,6 +63,7 @@
       "click_url": "https://youtube.com/"
     }
   ],
+
   "social_icons": [
     {
       "icon": "whatsapp",
@@ -73,7 +72,7 @@
     {
       "icon": "facebook",
       "url": "https://www.facebook.com/share/1DQdv1as6b/"
-     },
+    },
     {
       "icon": "instagram",
       "url": "https://www.instagram.com/super90_radio?stkn=bzBseDltbGI1dWZv"
