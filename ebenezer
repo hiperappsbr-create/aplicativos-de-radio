@@ -1,1 +1,90 @@
+{
+  "stream_url": "https://stream-280.surfernetwork.com/k9gy85cgwy8uv?zt=eyJhbGciOiJIUzI1NiJ9.eyJzdHJlYW0iOiJrOWd5ODVjZ3d5OHV2IiwiaG9zdCI6InN0cmVhbS0yODAuc3VyZmVybmV0d29yay5jb20iLCJydHRsIjo1LCJqdGkiOiJKdGtjXzNPcFRfZW9xVWRtbEE2VDN3IiwiaWF0IjoxNzkxNDc1NDYyLCJleHAiOjE3OTE0NzU1MjJ9.CH6F9QJFIhkCl0XwkdfXTDJghDR7VljBgspxwUpVgZg",
+  "app_name": "Web rádio Ebenézer",
+  "logo_url": "https://i.postimg.cc/SsmP1yty/17bab262c-1001211508.png",
+  "background_url": "https://i.postimg.cc/tCt7xDQ2/9bdad8907aee41c0da6c1d06ea50b12e.jpg",
+  "bg_tint_color": "#000000",
+  "bg_tint_opacity": 0.5,
+  "live_badge_text": " Ao Vivo",
+  "live_badge_color": "#09001d",
+  "accent_color": "#000101",
+  "autoplay": true,
+  "enable_banners": true,
+  "enable_social": true,
+  "enable_recording": true,
+  "enable_timer": true,
+  "enable_volume_bar": true,
+  "enable_metadata": false,
+  "enable_album_art": false,
+  "enable_album_view": true,
+  "banner_interval_ms": 7000,
+  "sponsor_label": "Colaboradores",
+
+  "enable_tv": true,
+  "tv_url": "https://media.base44.com/videos/public/6a958200c64e55a3e958c5be/a99bc1458_1001222042.mp4",
+  "tv_label": "TV Ao Vivo",
+
+  "enable_live_badge": false,
+
+  "banners": [
+    {
+      "title": "PATROCINADOR 1",
+      "subtitle": "Clique e fale no WhatsApp",
+      "bg_color": "#FDCB03",
+      "text_color": "#000000",
+      "image_url": "https://i.ibb.co/pvkGM8xN/anuncie-aqui.png",
+      "click_url": " "
+    },
+    {
+      "title": "PATROCINADOR 2",
+      "subtitle": "Clique e fale no WhatsApp",
+      "bg_color": "#FDCB03",
+      "text_color": "#000000",
+      "image_url": "https://i.ibb.co/pvkGM8xN/anuncie-aqui.png",
+      "click_url": ""
+    },
+    {
+      "title": "PATROCINADOR 3",
+      "subtitle": "Clique e fale no WhatsApp",
+      "bg_color": "#FDCB03",
+      "text_color": "#000000",
+      "image_url": "https://i.ibb.co/pvkGM8xN/anuncie-aqui.png",
+      "click_url": "https://"
+    },
+    {
+      "title": "PATROCINADOR 4",
+      "subtitle": "Clique e fale no WhatsApp",
+      "bg_color": "#FDCB03",
+      "text_color": "#000000",
+      "image_url": "https://i.ibb.co/pvkGM8xN/anuncie-aqui.png",
+      "click_url": "https://wa.me/"
+    },
+    {
+      "title": "",
+      "subtitle": "",
+      "bg_color": "#111111",
+      "text_color": "#FFFFFF",
+      "image_url": "https://i.ibb.co/pvkGM8xN/anuncie-aqui.png",
+      "click_url": "https://youtube.com/"
+    }
+  ],
+  "social_icons": [
+    {
+      "icon": "whatsapp",
+      "url": ""
+    },
+    {
+      "icon": "instagram",
+      "url": "https://www.instagram.com/celulaebenezerjurunas?stkn=MW1taDV1OGg2dnltag%3D%3D"
+    },
+    {
+      "icon": "facebook",
+      "url": "  "
+    },
+    {
+      "icon": "youtube",
+      "url": "  "
+    }
+  ]
+}
 
