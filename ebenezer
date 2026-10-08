@@ -1,30 +1,35 @@
 {
-  "stream_url": "https://stream-280.surfernetwork.com/k9gy85cgwy8uv?zt=eyJhbGciOiJIUzI1NiJ9.eyJzdHJlYW0iOiJrOWd5ODVjZ3d5OHV2IiwiaG9zdCI6InN0cmVhbS0yODAuc3VyZmVybmV0d29yay5jb20iLCJydHRsIjo1LCJqdGkiOiJKdGtjXzNPcFRfZW9xVWRtbEE2VDN3IiwiaWF0IjoxNzkxNDc1NDYyLCJleHAiOjE3OTE0NzU1MjJ9.CH6F9QJFIhkCl0XwkdfXTDJghDR7VljBgspxwUpVgZg",
-  "app_name": "Web rádio Ebenézer",
-  "logo_url": "https://i.postimg.cc/SsmP1yty/17bab262c-1001211508.png",
-  "background_url": "https://i.postimg.cc/tCt7xDQ2/9bdad8907aee41c0da6c1d06ea50b12e.jpg",
-  "bg_tint_color": "#000000",
-  "bg_tint_opacity": 0.5,
-  "live_badge_text": " Ao Vivo",
-  "live_badge_color": "#09001d",
-  "accent_color": "#000101",
+  "stream_url": "http://ice-the.musicradio.com/HeartWiltshireMP3?1791475641234",
+  "app_name": "Play FM ",
+  "logo_url": "https://i.postimg.cc/yxqQKn20/08587957-cead-4bc1-b730-bf0f2dc5670f.png",
+  "background_url": "https://i.ibb.co/kVGkk5Cp/fundof.jpg",
+  "bg_tint_color": "#000e38",
+  "bg_tint_opacity": 0.78,
+  "live_badge_text": ".",
+  "live_badge_color": "#00000000",
+  "accent_color": "#000d13",
   "autoplay": true,
   "enable_banners": true,
   "enable_social": true,
   "enable_recording": true,
   "enable_timer": true,
   "enable_volume_bar": true,
-  "enable_metadata": false,
+  "enable_metadata": true,
   "enable_album_art": false,
   "enable_album_view": true,
   "banner_interval_ms": 7000,
   "sponsor_label": "Colaboradores",
 
-  "enable_tv": true,
-  "tv_url": "  ",
+"enable_live_badge": false,
+
+"enable_tv": true,
+  "tv_url": "https://video11.logicahost.com.br/interativafm01/interativafm01/chunklist_w1032489035.m3u8",
   "tv_label": "TV Ao Vivo",
 
-  "enable_live_badge": false,
+ "enable_fake_listeners": false,
+  "fake_listeners_min": 20,
+  "fake_listeners_max": 252075,
+  "fake_listeners_label": "%d ouvintes hoje",
 
   "banners": [
     {
@@ -32,59 +37,90 @@
       "subtitle": "Clique e fale no WhatsApp",
       "bg_color": "#FDCB03",
       "text_color": "#000000",
-      "image_url": "https://i.ibb.co/pvkGM8xN/anuncie-aqui.png",
-      "click_url": " "
+      "image_url": "https://i.postimg.cc/rmY75JPQ/Chat-GPT-Image-2-de-mai-de-2026-09-02-48.png",
+      "click_url": " https://wa.me/5584999005872 " 
     },
     {
       "title": "PATROCINADOR 2",
       "subtitle": "Clique e fale no WhatsApp",
       "bg_color": "#FDCB03",
       "text_color": "#000000",
-      "image_url": "https://i.ibb.co/pvkGM8xN/anuncie-aqui.png",
-      "click_url": ""
+      "image_url": "https://i.postimg.cc/0Qm5fxrK/MERCADINHO-PAG-E-LEVE.png",
+      "click_url": " https://wa.me/5584986589119 "
     },
     {
       "title": "PATROCINADOR 3",
       "subtitle": "Clique e fale no WhatsApp",
       "bg_color": "#FDCB03",
       "text_color": "#000000",
-      "image_url": "https://i.ibb.co/pvkGM8xN/anuncie-aqui.png",
-      "click_url": "https://"
+      "image_url": "https://i.postimg.cc/wBYvJMk6/Chat-GPT-Image-24-de-ago-de-2026-17-39-28.png",
+      "click_url": " https://wa.me/5584999464244 "
     },
     {
       "title": "PATROCINADOR 4",
       "subtitle": "Clique e fale no WhatsApp",
       "bg_color": "#FDCB03",
       "text_color": "#000000",
-      "image_url": "https://i.ibb.co/pvkGM8xN/anuncie-aqui.png",
-      "click_url": "https://wa.me/"
+      "image_url": "https://i.postimg.cc/L4jb9Lkq/Chat-GPT-Image-20-de-ago-de-2026-07-31-33.png",
+      "click_url": " https://wa.me/5584999413002 "
+    },
+    {
+      "title": "PATROCINADOR 5",
+      "subtitle": "",
+      "bg_color": "#111111",
+      "text_color": "#FFFFFF",
+      "image_url": "https://i.postimg.cc/Zn8kmTWv/LF-CONSTRUCOES.png",
+      "click_url": " https://wa.me/5584999199949 "
+    },
+    {
+      "title": "PATROCINADOR 6",
+      "subtitle": "",
+      "bg_color": "#111111",
+      "text_color": "#FFFFFF",
+      "image_url": "https://i.postimg.cc/rFwF1hZz/Chat-GPT-Image-26-de-ago-de-2026-21-02-12.png",
+      "click_url": " https://wa.me/5584999335702 "
+    },
+    {
+      "title": "PATROCINADOR 7",
+      "subtitle": "",
+      "bg_color": "#111111",
+      "text_color": "#FFFFFF",
+      "image_url": "https://i.postimg.cc/qB8CbZG2/Chat-GPT-Image-26-de-ago-de-2026-20-59-57.png",
+      "click_url": " https://wa.me/5584998005806 "
+    },
+    {
+      "title": "PATROCINADOR 8",
+      "subtitle": "",
+      "bg_color": "#111111",
+      "text_color": "#FFFFFF",
+      "image_url": "https://i.postimg.cc/ZqbG1hbc/IMAGEM.png",
+      "click_url": " https://wa.me/5584998376257 "
     },
     {
       "title": "",
       "subtitle": "",
       "bg_color": "#111111",
       "text_color": "#FFFFFF",
-      "image_url": "https://i.ibb.co/pvkGM8xN/anuncie-aqui.png",
-      "click_url": "https://youtube.com/"
+      "image_url": "https://i.postimg.cc/Kj6bjwJW/hq720.jpg",
+      "click_url": " "
     }
-  ],
+],
   "social_icons": [
     {
       "icon": "whatsapp",
-      "url": ""
+      "url": "https://api.whatsapp.com/send?phone=55"
     },
     {
       "icon": "instagram",
-      "url": "https://www.instagram.com/celulaebenezerjurunas?stkn=MW1taDV1OGg2dnltag%3D%3D"
-    },
-    {
-      "icon": "facebook",
-      "url": "  "
+      "url": ""
     },
     {
       "icon": "youtube",
-      "url": "  "
+      "url": ""
+    },
+    {
+      "icon": "website",
+      "url": "https://webradiomundial.com"
     }
   ]
 }
-
