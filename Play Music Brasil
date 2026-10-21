@@ -108,19 +108,20 @@
   "social_icons": [
     {
       "icon": "whatsapp",
-      "url": "https://api.whatsapp.com/send?phone=55"
+      "url": "https://api.whatsapp.com/send?phone=5511978472498
+"
     },
     {
       "icon": "instagram",
-      "url": ""
+      "url": "https://www.instagram.com/play.musicbrazil?xtok=MXJ4aDFlbHEyZ3NuMQ=="
     },
     {
       "icon": "youtube",
-      "url": ""
+      "url": "https://youtube.com/@playmusicbrazilradio3342?si=WwQ2U0q_uAcze7qU"
     },
     {
       "icon": "website",
-      "url": "https://webradiomundial.com"
+      "url": "https://www.radioplaymusic.com.br"
     }
   ]
 }
