@@ -1,10 +1,10 @@
 {
   "stream_url": "https://stream.zeno.fm/jjgtqyoqkpvuv",
   "app_name": "Elite Studio FM",
-  "logo_url": "https://i.ibb.co/k60dYfw8/Elite.png",
+  "logo_url": "https://i.ibb.co/Q3916Srt/unnamed-1.png",
   "background_url": "https://i.ibb.co/1fKSCz01/Est-dio-de-R-dio-com-Mesa-Iluminada.png",
   "bg_tint_color": "#000000",
-  "bg_tint_opacity": 0.10,
+  "bg_tint_opacity": 0.30,
   "live_badge_text": " Ao Vivo",
   "live_badge_color": "#09001d",
   "accent_color": "#000101",
