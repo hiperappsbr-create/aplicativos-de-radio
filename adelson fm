@@ -1,8 +1,8 @@
 {
-  "stream_url": "https://radio-arquivos.suaradio.workers.dev/arquivo/radio/6ad413cae04e4f63ba187005/24221931-3ff8-49d5-bc4b-c753cd77df03.m4a",
+  "stream_url": "",
   "app_name": "Rádio Adelson FM",
   "logo_url": "https://i.postimg.cc/N0LfhJZp/4d8d5a16-53ca-4661-b9fe-41ef8747a21b-removebg-preview.png",
-  "background_url": "https://i.ibb.co/kVGkk5Cp/fundof.jpg",
+  "background_url": "https://i.postimg.cc/zBMzy0r0/imgi-1-ded2e1d7-53c6-44c7-9a5d-2fe945072b5c.png",
   "bg_tint_color": "#000e38",
   "bg_tint_opacity": 0.78,
   "live_badge_text": ".",
@@ -108,7 +108,7 @@
   "social_icons": [
     {
       "icon": "whatsapp",
-      "url": "https://api.whatsapp.com/send?phone=55"
+      "url": "https://api.whatsapp.com/send/?phone=5521979962051&text&type=phone_number&app_absent=0"
     },
     {
       "icon": "instagram",
@@ -120,7 +120,7 @@
     },
     {
       "icon": "website",
-      "url": "https://webradiomundial.com"
+      "url": "https://sua-radio.base44.app/radio/adelson"
     }
   ]
 }
