@@ -1,8 +1,8 @@
 {
   "stream_url": "http://37.157.242.102:19333/;",
   "app_name": "Rádio Web Voz do Alto",
-  "logo_url": "https://i.postimg.cc/JnNgJSSn/ic-launcher-playstore.png",
-  "background_url": "https://i.postimg.cc/dVhxnhgm/fundof.jpg",
+  "logo_url": "https://i.ibb.co/tP8j3dVy/voz-do-alto.png",
+  "background_url": "https://i.ibb.co/5x66Xd18/Nascer-C-smico-Sobre-as-Nuvens.png",
   "bg_tint_color": "#00254d",
   "bg_tint_opacity": 0.05,
   "live_badge_text": " Ao Vivo",
@@ -75,19 +75,19 @@
   "social_icons": [
     {
       "icon": "whatsapp",
-      "url": "https://wa.me/5515998428089"
+      "url": "https://wa.me/55"
     },
     {
       "icon": "facebook",
-      "url": "https://www.facebook.com/share/1DQdv1as6b/"
+      "url": "https://www.facebook.com/"
     },
     {
       "icon": "instagram",
-      "url": "https://www.instagram.com/super90_radio?stkn=bzBseDltbGI1dWZv"
+      "url": "https://www.instagram.com/"
     },
     {
       "icon": "website",
-      "url": "https://radiosuper90.studioshopping.com.br"
+      "url": "https://"
     }
   ]
 }
