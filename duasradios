@@ -6,6 +6,8 @@
       "stream_url": "https://stm1.voxhd.com.br:9320/stream",
       "logo_url": "https://voxhdstore.com.br/uploads/logo_20261006_233835.png",
       "accent_color": "#f2f2f2",
+  "background_url": "https://i.postimg.cc/tCLKxXBS/fundof.jpg",
+
       "bg_tint_color": "#130505",
       "bg_tint_opacity": 0.80,
       "live_badge_text": "AO VIVO",
@@ -14,9 +16,9 @@
       "privacy_url": "https://midiafm.siteweb.net.br/",
       "social_icons": [
         { "icon": "whatsapp",  "url": "https://wa.me/5519989715506" },
-        { "icon": "instagram", "url": "https://instagram.com/..." },
-        { "icon": "facebook",  "url": "https://facebook.com/..." },
-        { "icon": "youtube",   "url": "https://youtube.com/..." },
+        { "icon": "instagram", "url": "  " },
+        { "icon": "facebook",  "url": "  " },
+        { "icon": "youtube",   "url": "  " },
         { "icon": "website",   "url": "https://midiafm.siteweb.net.br/" }
       ]
     },
@@ -25,8 +27,10 @@
       "name": "Rádio Adoray Fm",
       "stream_url": "https://stm6.voxhd.com.br:13402/stream",
       "logo_url": "https://voxhdstore.com.br/uploads/logo_85e3ddd0e5064b82e12dd1cde403c869.png",
-      "accent_color": "#c25a05",
-      "bg_tint_color": "#c25a05",
+  "background_url": "https://i.postimg.cc/tTk1svyt/fundo.jpg",
+
+"accent_color": "#eeeeee",
+      "bg_tint_color": "#222222",
       "bg_tint_opacity": 0.80,
       "live_badge_text": "LIVE",
       "live_badge_color": "#FF0000",
