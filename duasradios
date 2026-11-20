@@ -32,7 +32,7 @@
 "accent_color": "#eeeeee",
       "bg_tint_color": "#222222",
       "bg_tint_opacity": 0.80,
-      "live_badge_text": "LIVE",
+      "live_badge_text": "AO VIVO",
       "live_badge_color": "#FF0000",
       "enable_live_badge": true,
       "privacy_url": "https://adorayfm.siteweb.net.br/politica.html",
