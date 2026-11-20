@@ -5,21 +5,24 @@
       "name": "Rádio Mídia FM",
       "stream_url": "https://stm1.voxhd.com.br:9320/stream",
       "logo_url": "https://voxhdstore.com.br/uploads/logo_20261006_233835.png",
+      "background_url": "https://i.postimg.cc/tCLKxXBS/fundof.jpg",
       "accent_color": "#f2f2f2",
-  "background_url": "https://i.postimg.cc/tCLKxXBS/fundof.jpg",
-
       "bg_tint_color": "#130505",
-      "bg_tint_opacity": 0.80,
+      "bg_tint_opacity": 0.8,
       "live_badge_text": "AO VIVO",
       "live_badge_color": "#E53935",
       "enable_live_badge": true,
+      "enable_pulse_effects": true,
       "privacy_url": "https://midiafm.siteweb.net.br/",
       "social_icons": [
-        { "icon": "whatsapp",  "url": "https://wa.me/5519989715506" },
-        { "icon": "instagram", "url": "  " },
-        { "icon": "facebook",  "url": "  " },
-        { "icon": "youtube",   "url": "  " },
-        { "icon": "website",   "url": "https://midiafm.siteweb.net.br/" }
+        {
+          "icon": "whatsapp",
+          "url": "https://wa.me/5519989715506"
+        },
+        {
+          "icon": "website",
+          "url": "https://midiafm.siteweb.net.br/"
+        }
       ]
     },
     {
@@ -27,18 +30,24 @@
       "name": "Rádio Adoray FM",
       "stream_url": "https://stm6.voxhd.com.br:13402/stream",
       "logo_url": "https://voxhdstore.com.br/uploads/logo_85e3ddd0e5064b82e12dd1cde403c869.png",
-  "background_url": "https://i.postimg.cc/tTk1svyt/fundo.jpg",
-
-"accent_color": "#eeeeee",
+      "background_url": "https://i.postimg.cc/tTk1svyt/fundo.jpg",
+      "accent_color": "#eeeeee",
       "bg_tint_color": "#222222",
-      "bg_tint_opacity": 0.80,
+      "bg_tint_opacity": 0.8,
       "live_badge_text": "AO VIVO",
       "live_badge_color": "#FF0000",
       "enable_live_badge": true,
+      "enable_pulse_effects": true,
       "privacy_url": "https://adorayfm.siteweb.net.br/politica.html",
       "social_icons": [
-        { "icon": "whatsapp", "url": "https://wa.me/5519989715506" },
-        { "icon": "website",  "url": "https://adorayfm.siteweb.net.br/" }
+        {
+          "icon": "whatsapp",
+          "url": "https://wa.me/5519989715506"
+        },
+        {
+          "icon": "website",
+          "url": "https://adorayfm.siteweb.net.br/"
+        }
       ]
     }
   ]
