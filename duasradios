@@ -10,7 +10,8 @@
       "bg_tint_color": "#130505",
       "bg_tint_opacity": 0.70,
       "live_badge_text": "AO VIVO",
-      "live_badge_color": "#E53935",
+      "live_badge_color": "#FFFFFF",
+       "live_badge_icon_color": "#FFFFFF"
       "enable_live_badge": true,
       "enable_pulse_effects": true,
       "privacy_url": "https://midiafm.siteweb.net.br/",
@@ -35,7 +36,8 @@
       "bg_tint_color": "#222222",
       "bg_tint_opacity": 0.70,
       "live_badge_text": "AO VIVO",
-      "live_badge_color": "#FF0000",
+      "live_badge_color": "#FFFFFF",
+"live_badge_icon_color": "#FFFFFF"
       "enable_live_badge": true,
       "enable_pulse_effects": true,
       "privacy_url": "https://adorayfm.siteweb.net.br/politica.html",
