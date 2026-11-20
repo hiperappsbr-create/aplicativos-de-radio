@@ -14,7 +14,7 @@
       "live_badge_icon_color": "#FFFFFF",
       "enable_live_badge": true,
       "enable_pulse_effects": true,
-"enable_banners": false,
+"enable_banners": true,
       "banner_title": "Nossos Parceiros",
       "enable_album_view": true,
       "enable_album_art": true,
