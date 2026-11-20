@@ -3,7 +3,7 @@
     {
       "id": "midiafm",
       "name": "Rádio Mídia FM",
-      "stream_url": "https://stm1.voxhd.com.br:9320/stream",
+      "stream_url": "https://server22.srvsh.com.br:7048/stream",
       "logo_url": "https://voxhdstore.com.br/uploads/logo_20261006_233835.png",
       "background_url": "https://i.postimg.cc/tCLKxXBS/fundof.jpg",
       "accent_color": "#f2f2f2",
