@@ -1,0 +1,41 @@
+{
+  "radios": [
+    {
+      "id": "midiafm",
+      "name": "Rádio Mídia Fm",
+      "stream_url": "https://stm1.voxhd.com.br:9320/stream",
+      "logo_url": "https://midiafm.siteweb.net.br/uploads/logo_20261006_233835.png",
+      "background_url": "",
+      "accent_color": "#FFD600",
+      "bg_tint_color": "#800000",
+      "bg_tint_opacity": 0.95,
+      "live_badge_text": "LIVE",
+      "live_badge_color": "#E53935",
+      "enable_live_badge": true,
+      "enable_tv": false,
+      "tv_url": "",
+      "privacy_url": "https://midiafm.siteweb.net.br/",
+      "social_icons": [
+        { "icon": "whatsapp",  "url": "https://wa.me/5519989715506" },
+        { "icon": "instagram", "url": "https://instagram.com/..." },
+        { "icon": "facebook",  "url": "https://facebook.com/..." },
+        { "icon": "youtube",   "url": "https://youtube.com/..." },
+        { "icon": "website",   "url": "https://midiafm.siteweb.net.br/" }
+      ],
+      "sponsor_banners": []
+    },
+    {
+      "id": "andromeda",
+      "name": "Andromeda FM",
+      "stream_url": "https://SEU_STREAM_ANDROMEDA",
+      "logo_url": "https://.../logo-andromeda.png",
+      "background_url": "https://.../fundo-andromeda.jpg",
+      "accent_color": "#E2E4E4",
+      "bg_tint_color": "#010C2C",
+      "bg_tint_opacity": 0.95,
+      "live_badge_text": "AO VIVO",
+      "live_badge_color": "#0D0D14",
+      "enable_live_badge": true
+    }
+  ]
+}
