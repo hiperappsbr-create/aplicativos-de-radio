@@ -1,89 +1,62 @@
 {
-  "stream_url": "http://37.157.242.102:19333/;",
-  "app_name": "Rádio Sul PMG",
-  "logo_url": "https://i.ibb.co/8nN4ySKS/Whats-App-Image-2026-11-25-at-13-45-14.jpg",
-  "background_url": "https://i.ibb.co/99wfZyHZ/fundof.jpg",
-  "bg_tint_color": "#00254d",
-  "bg_tint_opacity": 0.50,
-  "live_badge_text": " Ao Vivo",
-  "live_badge_color": "#09001d",
-  "accent_color": "#000d13",
-  "autoplay": true,
-  "enable_banners": true,
-  "enable_social": true,
-  "enable_recording": true,
-  "enable_timer": true,
-  "enable_volume_bar": true,
-  "enable_metadata": true,
-  "enable_album_art": false,
-  "enable_album_view": true,
-  "banner_interval_ms": 7000,
-  "sponsor_label": "Colaboradores",
+  "radios": [
+    {
+      "id": "midiafm",
+      "name": "Rádio Sul PMG",
+      "stream_url": "http://37.157.242.102:19333/;",
+      "logo_url": "https://i.ibb.co/8nN4ySKS/Whats-App-Image-2026-11-25-at-13-45-14.jpg",
+      "background_url": "https://i.ibb.co/99wfZyHZ/fundof.jpg",
+      "accent_color": "#f2f2f2",
+      "bg_tint_color": "#130505",
+      "bg_tint_opacity": 0.7,
+      "live_badge_text": "AO VIVO",
+      "live_badge_color": "#E53935",
+      "live_badge_icon_color": "#FFFFFF",
+      "enable_live_badge": true,
+      "enable_pulse_effects": true,
+"enable_banners": true,
+      "banner_title": "Nossos Parceiros",
+      "enable_album_view": true,
+      "enable_album_art": true,
+      "enable_metadata": true,
+      "privacy_url": "https://midiafm.siteweb.net.br/",
+      "banners": [
+        {
+          "image_url": "https://i.postimg.cc/sXNpfPWk/fvb.jpg",
+          "link_url": "https://site-do-patrocinador-1.com"
+        },
+        {
+          "image_url": "https://gobanners.com.br/wp-content/uploads/2021/02/inserir-um-subtitulo-2-800x450.webp",
+          "link_url": "https://site-do-patrocinador-2.com"
+        },
+        {
+          "image_url": "https://gobanners.com.br/wp-content/uploads/2020/11/Black-Friday-2020.jpg",
+          "link_url": "https://site-do-patrocinador-2.com"
+        },
+{
+          "image_url": "https://i.postimg.cc/sXNpfPWk/fvb.jpg",
+          "link_url": "https://site-do-patrocinador-1.com"
+        },
+        {
+          "image_url": "https://gobanners.com.br/wp-content/uploads/2021/02/inserir-um-subtitulo-2-800x450.webp",
+          "link_url": "https://site-do-patrocinador-2.com"
+        },
+        {
+          "image_url": "https://gobanners.com.br/wp-content/uploads/2020/11/Black-Friday-2020.jpg",
+          "link_url": "https://site-do-patrocinador-2.com"
+        }
 
-  "enable_tv": false,
-  "tv_url": "https://video11.logicahost.com.br/interativafm01/interativafm01/chunklist_w1032489035.m3u8",
-  "tv_label": "TV Ao Vivo",
-
-  "enable_live_badge": false,
-
-  "banners": [
-    {
-      "title": "PATROCINADOR 1",
-      "subtitle": "Clique e fale no WhatsApp",
-      "bg_color": "#FDCB03",
-      "text_color": "#000000",
-      "image_url": "https://i.ibb.co/pvkGM8xN/anuncie-aqui.png",
-      "click_url": " "
-    },
-    {
-      "title": "PATROCINADOR 2",
-      "subtitle": "Clique e fale no WhatsApp",
-      "bg_color": "#FDCB03",
-      "text_color": "#000000",
-      "image_url": "https://i.ibb.co/pvkGM8xN/anuncie-aqui.png",
-      "click_url": ""
-    },
-    {
-      "title": "PATROCINADOR 3",
-      "subtitle": "Clique e fale no WhatsApp",
-      "bg_color": "#FDCB03",
-      "text_color": "#000000",
-      "image_url": "https://i.ibb.co/pvkGM8xN/anuncie-aqui.png",
-      "click_url": "https://"
-    },
-    {
-      "title": "PATROCINADOR 4",
-      "subtitle": "Clique e fale no WhatsApp",
-      "bg_color": "#FDCB03",
-      "text_color": "#000000",
-      "image_url": "https://i.ibb.co/pvkGM8xN/anuncie-aqui.png",
-      "click_url": "https://wa.me/"
-    },
-    {
-      "title": "",
-      "subtitle": "",
-      "bg_color": "#111111",
-      "text_color": "#FFFFFF",
-      "image_url": "https://i.ibb.co/pvkGM8xN/anuncie-aqui.png",
-      "click_url": "https://youtube.com/"
-    }
-  ],
-  "social_icons": [
-    {
-      "icon": "whatsapp",
-      "url": "https://api.whatsapp.com/send?phone=5524981158557"
-    },
-    {
-      "icon": "instagram",
-      "url": "https://www.instagram.com/"
-    },
-    {
-      "icon": "facebook",
-      "url": "https://www.facebook.com/share/1A2aFS9yKQ/"
-    },
-    {
-      "icon": "youtube",
-      "url": "  "
+      ],
+      "social_icons": [
+        {
+          "icon": "whatsapp",
+          "url": "https://api.whatsapp.com/send?phone=5524981158557"
+        },
+        {
+          "icon": "facebook",
+          "url": "https://www.facebook.com/share/1A2aFS9yKQ/"
+        }
+      ]
     }
   ]
 }
