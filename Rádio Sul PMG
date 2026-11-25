@@ -3,7 +3,7 @@
     {
       "id": "Rádio Top Sul PMG",
       "name": "Rádio Top Sul PMG",
-      "stream_url": "http://37.157.242.102:19333/;",
+      "stream_url": "https://radio01.zas.media:8022/stream",
       "logo_url": "https://i.ibb.co/8nN4ySKS/Whats-App-Image-2026-11-25-at-13-45-14.jpg",
       "background_url": "https://i.ibb.co/99wfZyHZ/fundof.jpg",
       "accent_color": "#f2f2f2",
