@@ -1,8 +1,8 @@
 {
   "radios": [
     {
-      "id": "Rádio Sul PMG",
-      "name": "Rádio Sul PMG",
+      "id": "Rádio Top Sul PMG",
+      "name": "Rádio Top Sul PMG",
       "stream_url": "http://37.157.242.102:19333/;",
       "logo_url": "https://i.ibb.co/8nN4ySKS/Whats-App-Image-2026-11-25-at-13-45-14.jpg",
       "background_url": "https://i.ibb.co/99wfZyHZ/fundof.jpg",
