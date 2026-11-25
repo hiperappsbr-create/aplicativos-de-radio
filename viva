@@ -1,8 +1,8 @@
 {
-  "stream_url": "http://stream.zeno.fm/dmxa70ebsm0uv",
-  "app_name": "Rádio Viva",
-  "logo_url": "https://i.postimg.cc/zvN1vmVH/sdd.png",
-  "background_url": "https://i.postimg.cc/wjMY7QT7/64f1b5b09fea46b2f446778b32cc24e2.jpg",
+  "stream_url": "http://37.157.242.102:19333/;",
+  "app_name": "Rádio Sul PMG",
+  "logo_url": "https://i.ibb.co/8nN4ySKS/Whats-App-Image-2026-11-25-at-13-45-14.jpg",
+  "background_url": "https://i.ibb.co/99wfZyHZ/fundof.jpg",
   "bg_tint_color": "#00254d",
   "bg_tint_opacity": 0.05,
   "live_badge_text": " Ao Vivo",
@@ -79,7 +79,7 @@
     },
     {
       "icon": "facebook",
-      "url": "  "
+      "url": "https://www.facebook.com/share/1A2aFS9yKQ/"
     },
     {
       "icon": "youtube",
