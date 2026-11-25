@@ -14,11 +14,15 @@
       "live_badge_icon_color": "#FFFFFF",
       "enable_live_badge": true,
       "enable_pulse_effects": true,
-"enable_banners": true,
+      "enable_banners": true,
       "banner_title": "Nossos Parceiros",
       "enable_album_view": true,
       "enable_album_art": true,
       "enable_metadata": true,
+      "audio_effect": "echo",
+      "audio_effect_intensity": 0.75,
+      "audio_effect_time": 0.75,
+      "audio_effect_decay": 0.60,
       "privacy_url": "https://midiafm.siteweb.net.br/",
       "banners": [
         {
@@ -33,7 +37,7 @@
           "image_url": "https://gobanners.com.br/wp-content/uploads/2020/11/Black-Friday-2020.jpg",
           "link_url": "https://site-do-patrocinador-2.com"
         },
-{
+        {
           "image_url": "https://i.postimg.cc/sXNpfPWk/fvb.jpg",
           "link_url": "https://site-do-patrocinador-1.com"
         },
@@ -45,7 +49,6 @@
           "image_url": "https://gobanners.com.br/wp-content/uploads/2020/11/Black-Friday-2020.jpg",
           "link_url": "https://site-do-patrocinador-2.com"
         }
-
       ],
       "social_icons": [
         {
