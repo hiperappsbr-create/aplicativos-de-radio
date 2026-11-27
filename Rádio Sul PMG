@@ -22,7 +22,7 @@
       "audio_effect": "echo",
       "audio_effect_intensity": 0.75,
       "audio_effect_time": 0.75,
-      "audio_effect_decay": 0.60,
+      "audio_effect_decay": 0.90,
       "privacy_url": "https://midiafm.siteweb.net.br/",
       "banners": [
         {
