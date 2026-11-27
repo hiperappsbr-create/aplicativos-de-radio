@@ -22,7 +22,7 @@
       "audio_effect": "echo",
       "audio_effect_intensity": 0.75,
       "audio_effect_time": 0.75,
-      "audio_effect_decay": 0.90,
+      "audio_effect_decay": 0.70,
       "banners": [
         {
           "image_url": "https://i.postimg.cc/c46vZCHR/Whats-App-Image-2026-11-26-at-08-24-54.jpg",
